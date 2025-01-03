@@ -1,0 +1,7 @@
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\obj\Debug\serıport_1.csprojResolveAssemblyReference.cache
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\obj\Debug\serıport_1.csproj.GenerateResource.Cache
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\obj\Debug\LCDSeriPortson.MainForm.resources
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\bin\Debug\serıport_1.exe
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\bin\Debug\serıport_1.pdb
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\obj\Debug\serıport_1.exe
+C:\Users\ABRA A5 V16.6.1\OneDrive\Belgeler\SharpDevelop Projects\serıport_1\serıport_1\obj\Debug\serıport_1.pdb
